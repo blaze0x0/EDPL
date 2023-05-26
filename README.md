@@ -2,7 +2,7 @@
  > This is an overview. Use the text in LICENSE file
 
 
-## Emotional Damage Public License
+## Emotionally Damaged Public License
 
 > Version 1.0, May 2023
 > Copyright (C) 2023 LegenDrags
@@ -10,7 +10,7 @@
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document.
 
-> Emotional Damage Public License
+> Emotionally Damaged Public License
 > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
 1. Do whatever you want with the original work, just don't be emotionally damaged.
