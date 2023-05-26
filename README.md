@@ -1,11 +1,11 @@
 # Overview of EDPL
- > This is an overview. Use the text in LICENSE file to use it
+ > This is an overview. Use the text in LICENSE file
 
 
 ## Emotional Damage Public License
 
 > Version 1.0, May 2023
-> Copyright (C) [year] [fullname]
+> Copyright (C) 2023 LegenDrags
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document.
